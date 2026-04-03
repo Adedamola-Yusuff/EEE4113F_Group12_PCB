@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e12b7699-51d9-4a29-b230-68c97b7f7a54")
+	(paper "A4")
+	(title_block
+		(title "PCB for BARBIE Project")
+		(date "2026-04-04")
+		(company "University of Cape Town")
+		(comment 1 "Drawn by: Ms H. Owen, Mr N. Vorsatz, Mr A. Yusuff")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
